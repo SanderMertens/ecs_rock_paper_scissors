@@ -1,6 +1,8 @@
 # Rock, Paper, Scissors
 A tiny implementation of rock, paper, scissors in ECS!
 
+Link to Flecs: https://github.com/SanderMertens/flecs
+
 ## How to build
 Just compile the sources. Make sure to compile `flecs.c` as C and `main.cpp` as
 C++ code. The following commands will build the project with GCC:
