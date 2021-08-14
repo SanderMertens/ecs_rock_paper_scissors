@@ -19,7 +19,7 @@ rock, paper, scissors? paper
 AI is scissors, you lose!
 ```
 
-## player.has(beats, ai)?'
+## player.has(beats, ai)?
 Yes! The game uses ECS relations to store the who-beats-who graph. Just like components, relations are things that can be added to entities, and that can be queried for.
 
 This is just showing the top of the tip of the iceberg of what relations can do, make sure to [check this out](https://flecs.docsforge.com/master/relations-manual/) if you'd like to know more!
